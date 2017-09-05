@@ -1,1 +1,1 @@
-# Go Hacker News Telegram Bot
+# Hacker News Telegram Bot
